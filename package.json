@@ -1,0 +1,19 @@
+{
+  "name": "libsql-memory-transaction-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "0.4.0-pre.5",
+    "vitest": "^0.34.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20"
+  }
+}
